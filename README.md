@@ -6,7 +6,5 @@ awesome-github-project-navigation 是由个人所有star项目的整理分类集
 - [Android项目开源组件或项目](project/Android_README.md) 
 - [Linux](Linux_README.md) 
 
-## 抽屉菜单 
 
-- [MaterialDrawer]()  - 安卓抽屉效果实现方案 
 

@@ -7,5 +7,5 @@ Android分类集合
    
 ## 底部导航 
 - [BottomTabBar](https://github.com/DevinFu/BottomTabBar)  Android应用中位于底部的tab栏
-- [FragmentTabHost](https://github.com/hlgao/FragmentTabHost)  
-   FragmentTabHost + ViewPager实现Android底部Tab，并避免Fragment之间切换时每次都会调用onCreateView方法，导致每次Fragment的布局都重绘。   
+- [FragmentTabHost](https://github.com/hlgao/FragmentTabHost)  FragmentTabHost + ViewPager实现Android底部Tab，并避免
+    Fragment之间切换时每次都会调用onCreateView方法，导致每次Fragment的布局都重绘。   

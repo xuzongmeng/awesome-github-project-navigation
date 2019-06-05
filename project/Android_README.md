@@ -13,7 +13,7 @@ Android分类集合
 - [StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt)  状态栏
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil)  StatusBarUtil
 - [StatusBarCompat](https://github.com/niorgai/StatusBarCompat)  自定义
-- [Android](xxxxx)  自定义
+- [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)  沉浸栏比较优雅的方案
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

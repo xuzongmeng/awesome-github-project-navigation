@@ -1,10 +1,19 @@
 Android分类集合
 
 ## 抽屉菜单 
-- [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单
-   自定义ViewGroup实现的圆形旋转菜单
+- [Android](xxxxx)  自定义
+   自定义
 ## 沉浸栏 状态栏 
-- [StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt)  自定义ViewGroup实现的圆形旋转菜单
+- [StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt)  状态栏
+- [StatusBarUtil](https://github.com/laobie/StatusBarUtil)  StatusBarUtil
+- [StatusBarCompat](https://github.com/niorgai/StatusBarCompat)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+
 ## 抽屉菜单 
 - [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单   
 ## 下拉刷新 
@@ -16,8 +25,8 @@ Android分类集合
 - [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout)  A bueautiful RefreshLayout
 - [Android-MaterialRefreshLayou](https://github.com/android-cjj/Android-MaterialRefreshLayout)  This is a drop-down control, it is more beautiful and powerful than SwipeRefreshLayout
 - [android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout)  This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLayout.
-- [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单
-- [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单
+- [PullToRefreshAndLoad](https://github.com/jingchenUSTC/PullToRefreshAndLoad)  下拉刷新 ，上拉加载
+- [CommonPullToRefresh](https://github.com/Chanven/CommonPullToRefresh)  下拉刷新,上拉加载ListView , RecyclerView, GridView
 - [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单
 - [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单
 - [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单
@@ -31,7 +40,67 @@ Android分类集合
 - [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)  炫酷底部导航
 - [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)  支持多种Indicator显示器,以及Indicator动画 支持未读消息显示
 - [tabnavigate](https://github.com/linuxiao/tabnavigate)  Android底部导航栏封装
-- [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单       
-    https://github.com/tyzlmjj/PagerBottomTabStrip
-    
-https://github.com/CoolThink/StatusBarAdapt    
+- [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)  底部导航    
+- [BottomBar](https://github.com/roughike/BottomBar)  底部导航
+- [Android-TabIndicator](https://github.com/xuehuayous/Android-TabIndicator)  Android-TabIndicator
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 轮播图
+- [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager)  单页显示3个Item的ViewPager炫酷切换效果，适用于Banner等
+- [ViewPager3D](https://github.com/inovex/ViewPager3D)  ViewPager 3D切换效果
+- [ParallaxViewPager](https://github.com/ybq/ParallaxViewPager)  视差切换效果
+- [android-guidedemo](https://github.com/Guolei1130/android-guidedemo)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+## 日志 
+- [LogUtils](https://github.com/pengwei1024/LogUtils   )  各种日志打印
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 通知栏 
+- [NiftyNotification](https://github.com/sd6352051/NiftyNotification)  NiftyNotification
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 导航指示器 
+- [MagicIndicator](https://github.com/hackware1993/MagicIndicator)  MagicIndicator
+- [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator)  实现网易顶部tab，新浪微博主页底部tab，引导页，无限轮播banner等效果，高度自定义tab和特效，LazyFragment
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 抽屉菜单 
+- [Android](xxxxx)  自定义

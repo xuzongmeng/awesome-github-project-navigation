@@ -22,7 +22,7 @@ Java分类集合
 - [AppServiceRestFul](https://github.com/wanliyang1990/AppServiceRestFul)  Spring MVC RESTFUL接口实例和android测试客户端，包含注册、登录、支付宝支付、微信支付、增量更新等。
 - [ssmServer](https://github.com/change9326/ssmServer)  ssmServer
 - [beauty_ssm](https://github.com/wosyingjun/beauty_ssm)  优雅的SSM（Spring+SpringMVC+Mybatis）框架
-- [Android](xxxxx)  自定义
+- [springmvc-mybatis-learning](https://github.com/brianway/springmvc-mybatis-learning)  SpringMVC 和 MyBatis 学习笔记，搭配示例，主要讲解一些基础的概念、用法和配置
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 

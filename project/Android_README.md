@@ -42,8 +42,8 @@ Android分类集合
 - [Android-CommonRefreshLayout](https://github.com/mylhyl/Android-CommonRefreshLayout)  CommonRefreshLayout
 - [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView)  RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
 - [EasyRefreshLayout](https://github.com/anzaizai/EasyRefreshLayout)  支持下拉刷新，上拉自动加载
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)  支持下拉刷新，上拉自动加载
+- [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)  多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -85,7 +85,7 @@ Android分类集合
 - [freepager](https://github.com/alexzaitsev/freepager)  可以上下滑动的ViewPager
 - [Android-Coverflow](https://github.com/crosswall/Android-Coverflow)  A beautiful coverflow lib for android
 - [BezierViewPager](https://github.com/qdxxxx/BezierViewPager)  自定义
-- [Android](xxxxx)  自定义
+- [banner](https://github.com/youth5201314/banner)  ndroid广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 ## 日志 
@@ -133,8 +133,7 @@ Android分类集合
 ## RecycleView  
 - [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)  闪烁加载视图列表，类似淘宝
 - [spruce-android](https://github.com/willowtreeapps/spruce-android) 闪烁加载视图列表，类似淘宝
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -180,7 +179,7 @@ Android分类集合
 - [Contact](https://github.com/lichao315/Contact)  仿小米、华为、三星各大产商手机联系人、通讯录
 - [SortRecyclerView](https://github.com/xupeng92/SortRecyclerView)  用RecyclerView对数据进行字母排序
 - [SelectCityDome](https://github.com/doubijuan/SelectCityDome)  Android 仿美团网,探索ListView的A-Z字母排序功能实现选择城市，记得在我刚开始接触到美团网的时候就对美团网这个城市定位、选择城市功能很感兴趣
-- [Android](xxxxx)  自定义
+- [citypicker](https://github.com/crazyandcoder/citypicker)  citypicker城市选择器，详细的省市区地址信息，支持仿iOS滚轮实现，仿京东样式，一级或者三级列表展示方式。
 - [Android](xxxxx)  自定义
 
 ## 图片 
@@ -193,8 +192,46 @@ Android分类集合
 - [Android](xxxxx)  自定义
 
 
+## Material相关
+- [MaterialLogin](https://github.com/fanrunqi/MaterialLogin)  Amazing Material Login effect
+- [MDStudySamples](https://github.com/Mike-bel/MDStudySamples)  自定义
+- [Material-Animations](https://github.com/lgvalle/Material-Animations)  Activity跳转过度效果（堪称完美）
+- [MaterialDesignDemo](https://github.com/loonggg/MaterialDesignDemo)  MaterialDesign系列控件讲解
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
 ## 抽屉菜单 
 - [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 加载Loading炫酷效果 
+- [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)  高仿新版58 加载动画
+- [BaseAnimation](https://github.com/z56402344/BaseAnimation)  各种动画包含loading
+- [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)   炫酷loading
+- [FlickerProgressBar](https://github.com/LineChen/FlickerProgressBar)  仿应用宝下载进度条
+- [SpinnerLoading](https://github.com/lusfold/SpinnerLoading)  炫酷loading
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+
+## 视音频 
+- [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)  谷歌开源音乐播放器
+- [ijkplayer](https://github.com/bilibili/ijkplayer)  Android/iOS video player based on FFmpeg n3.4,
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+
+## 通过加载页 可封装到BaseActivity或BaseFragment 
+- [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper)  换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

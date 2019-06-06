@@ -130,5 +130,74 @@ Android分类集合
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 
+## RecycleView  
+- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)  闪烁加载视图列表，类似淘宝
+- [spruce-android](https://github.com/willowtreeapps/spruce-android) 闪烁加载视图列表，类似淘宝
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+## 相册选择器 
+- [Matisse](https://github.com/zhihu/Matisse)  知乎开源相册
+- [Album](https://github.com/yanzhenjie/Album)  严振杰大佬开源相册
+- [TakePhoto](https://github.com/crazycodeboy/TakePhoto)  一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
+- [ChoosePicture](https://github.com/yaochangliang159/ChoosePicture)  图片选择器
+- [PictureSelector](https://github.com/LuckSiege/PictureSelector)  多图片选择器
+- [camerakit-android](https://github.com/CameraKit/camerakit-android)  自定义
+- [Android](xxxxx)  自定义
+## 二维码条形码 
+- [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+- [StarBarcode](https://github.com/kangdp/StarBarcode)  wanAndroid群星爷二维码
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+## 弹窗 PopupWindow
+- [NiceDialog](https://github.com/SheHuan/NiceDialog) DialogFragment封装
+- [material-dialogs](https://github.com/afollestad/material-dialogs)  A beautiful, fluid, and extensible dialogs API for Kotlin & Android
+- [android-adDialo](https://github.com/yipianfengye/android-adDialog)  一个简单，强大的广告活动弹窗控件
+- [BottomDialog](https://github.com/shaohui10086/BottomDialog)  DialogFragment底部评论 分享弹窗
+- [YCDialog](https://github.com/yangchong211/YCDialog)  自定义弹窗，其中包括：自定义Toast，采用builder模式，支持设置吐司多个属性；自定义dialog控件，仿IOS底部弹窗；自定义DialogFragment弹窗，支持自定义布局，
+        也支持填充recyclerView布局；自定义PopupWindow弹窗，轻量级，还有自定义Snackbar等等；还有自定义loading加载窗，简单便用。目前已经用于多个正式项目中。同时还有附加7篇关于弹窗的源码分析博客
+- [XPopup](https://github.com/li-xiaojun/XPopup)  可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等
+- [BasePopup](https://github.com/razerdp/BasePopup)  各种Popup封装
+- [HintPopupWindow](https://github.com/Zhaoss/HintPopupWindow)  仿QQ的选项弹窗动画
+- [PopupLayout](https://github.com/CodingEnding/PopupLayout)  通用弹出布局辅助库，允许开发者从顶部、底部、左侧、右侧和中心这五个位置弹出自己指定的View
+- [SmartPopupWindow](https://github.com/PopFisher/SmartPopupWindow)  PopupWindow不响应点击外部消失和返回键消失的解决方法；PopupWindow精确计算要显示位置原理和方法；实现带箭头的上下文菜单遇到的坑；Android7.0 PopupWindow的兼容问题;屏幕旋转时调用PopupWindow update方法更新位置失效的问题及解决方案
+- [TDialog](https://github.com/Timmy-zzh/TDialog)  DialogFragment封装
+- [XPopupWindow](https://github.com/XuDeveloper/XPopupWindow)  PopupWindow using Kotlin
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+
+## 联系人A-Z字母索引 
+- [ContactsPicker](https://github.com/angcyo/ContactsPicker)  联系人选择器
+- [Contacts](https://github.com/kymjs/Contacts)  Android联系人列表界面
+- [Contact](https://github.com/lichao315/Contact)  仿小米、华为、三星各大产商手机联系人、通讯录
+- [SortRecyclerView](https://github.com/xupeng92/SortRecyclerView)  用RecyclerView对数据进行字母排序
+- [SelectCityDome](https://github.com/doubijuan/SelectCityDome)  Android 仿美团网,探索ListView的A-Z字母排序功能实现选择城市，记得在我刚开始接触到美团网的时候就对美团网这个城市定位、选择城市功能很感兴趣
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 图片 
+- [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)  大图长图加载
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+
 ## 抽屉菜单 
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

@@ -8,6 +8,11 @@ Java分类集合
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll)  循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码
 - [MyBatis-Spring-Boot](https://github.com/abel533/MyBatis-Spring-Boot)  Spring Boot集成MyBatis的基础项目
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)  包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示
+- [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)  提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限
+- [SpringBootExamples](https://github.com/souyunku/SpringBootExamples)  Spring Boot 学习教程 https://www.souyunku.com/categories/#…
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
 ## springCloud教程
 - [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)  Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 http://www.ityouknow.com/
 - [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)  《史上最简单的Spring Cloud教程源码》
@@ -25,12 +30,18 @@ Java分类集合
 - [springmvc-mybatis-learning](https://github.com/brianway/springmvc-mybatis-learning)  SpringMVC 和 MyBatis 学习笔记，搭配示例，主要讲解一些基础的概念、用法和配置
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
 
 ## 开源项目 
 - [AdminEAP](https://github.com/bill1012/AdminEAP)  AdminEAP-企业快速开发平台：Spring MVC+Hiberante+AdminLTE 
 - [LeeCX](https://github.com/leechenxiang/LeeCX)  LeeCX 开源后台管理系统，前端基于bootstrap+jquery，后端基于springmvc+spring+mybatis 
 - [Guns](https://github.com/stylefeng/Guns)  Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)
 - [uid-generator](https://github.com/baidu/uid-generator)  ID生成策略
+- [any-video](https://github.com/ChinaSilence/any-video)  是基于 Spring Boot 开发的应用，利用网络爬虫技术，实时解析互联网资源，视频播放
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

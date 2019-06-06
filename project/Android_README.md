@@ -230,7 +230,7 @@ Android分类集合
 - [Android](xxxxx)  自定义
 
 
-## 通过加载页 可封装到BaseActivity或BaseFragment 
+## 通用加载页 可封装到BaseActivity或BaseFragment 
 - [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper)  换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

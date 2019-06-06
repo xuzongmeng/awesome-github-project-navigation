@@ -134,7 +134,7 @@ Android分类集合
 - [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)  闪烁加载视图列表，类似淘宝
 - [spruce-android](https://github.com/willowtreeapps/spruce-android) 闪烁加载视图列表，类似淘宝
 - [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)  自定义
-- [Android](xxxxx)  自定义
+- [Skeleton](https://github.com/ethanhua/Skeleton)  闪烁加载视图列表
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 ## 相册选择器 
@@ -144,7 +144,7 @@ Android分类集合
 - [ChoosePicture](https://github.com/yaochangliang159/ChoosePicture)  图片选择器
 - [PictureSelector](https://github.com/LuckSiege/PictureSelector)  多图片选择器
 - [camerakit-android](https://github.com/CameraKit/camerakit-android)  自定义
-- [Android](xxxxx)  自定义
+- [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)  图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
 ## 二维码条形码 
 - [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 - [StarBarcode](https://github.com/kangdp/StarBarcode)  wanAndroid群星爷二维码
@@ -216,15 +216,15 @@ Android分类集合
 - [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)   炫酷loading
 - [FlickerProgressBar](https://github.com/LineChen/FlickerProgressBar)  仿应用宝下载进度条
 - [SpinnerLoading](https://github.com/lusfold/SpinnerLoading)  炫酷loading
-- [Android](xxxxx)  自定义
+- [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)  Material Design ProgressBar
 - [Android](xxxxx)  自定义
 
 
 ## 视音频 
 - [android-UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer)  谷歌开源音乐播放器
 - [ijkplayer](https://github.com/bilibili/ijkplayer)  Android/iOS video player based on FFmpeg n3.4,
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [jjdxm_ijkplayer](https://github.com/lingcimi/jjdxm_ijkplayer)  开源小项目
+- [VideoRecorder](https://github.com/qdrzwd/VideoRecorder)  android视频录制，模仿微视，支持按下录制、抬起暂停。进度条断点显示。
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

@@ -29,8 +29,8 @@ Java分类集合
 ## 开源项目 
 - [AdminEAP](https://github.com/bill1012/AdminEAP)  AdminEAP-企业快速开发平台：Spring MVC+Hiberante+AdminLTE 
 - [LeeCX](https://github.com/leechenxiang/LeeCX)  LeeCX 开源后台管理系统，前端基于bootstrap+jquery，后端基于springmvc+spring+mybatis 
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [Guns](https://github.com/stylefeng/Guns)  Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)
+- [uid-generator](https://github.com/baidu/uid-generator)  ID生成策略
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

@@ -201,13 +201,13 @@ Android分类集合
 - [Android](xxxxx)  自定义
 
 
-## Material相关
+## MaterialDesign相关
 - [MaterialLogin](https://github.com/fanrunqi/MaterialLogin)  Amazing Material Login effect
 - [MDStudySamples](https://github.com/Mike-bel/MDStudySamples)  自定义
 - [Material-Animations](https://github.com/lgvalle/Material-Animations)  Activity跳转过度效果（堪称完美）
 - [MaterialDesignDemo](https://github.com/loonggg/MaterialDesignDemo)  MaterialDesign系列控件讲解
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [Lollipop-Demo](https://github.com/lenamuit/Lollipop-Demo)  2. Using SwipeRefreshLayout, Toolbars, RecycleView, CardView. Using Picasso, OkHttp, Retrofit and Butterknife more
+- [MaterialDesign](https://github.com/yechaoa/MaterialDesign)  Material Design 控件集合。ConstraintLayout、NestedScrollView、Toolbar、TabLayout、TextInputLayout。。。
 - [Android](xxxxx)  自定义
 
 ## 抽屉菜单 
@@ -259,6 +259,6 @@ Android分类集合
 - [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)  一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图
 - [MultiStateView](https://github.com/Kennyc1012/MultiStateView)  Android View that displays different content based on its state
 - [LoadingLayoutDemo](https://github.com/weavey/LoadingLayoutDemo)  别为加载中、无网络、无数据、出错四种情况，经常要使用，所以封成库引用了，方便使用，顺便分享出来。先看一下效果：
-- [Android](xxxxx)  自定义
+- [StateView](https://github.com/lany192/StateView)  定义的多视图切换类，包含加载中、错误、结果空、网络异常和内容这5种视图，
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

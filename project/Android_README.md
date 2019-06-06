@@ -45,8 +45,8 @@ Android分类集合
 - [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)  支持下拉刷新，上拉自动加载
 - [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)  多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
 - [PullLoadMoreRecyclerView](https://github.com/WuXiaolong/PullLoadMoreRecyclerView)  实现RecyclerView下拉刷新和上拉加载更多以及RecyclerView线性、网格、瀑布流效果演示
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [Android-AnimatePullToRefreshListView](https://github.com/ufo22940268/Android-AnimatePullToRefreshListView)  自定义
+- [PowerRecyclerView](https://github.com/lovejjfg/PowerRecyclerView)   load more.
 - [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)  目前已经弃用
 - [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh)  目前已经弃用      
 ## 底部导航 
@@ -62,7 +62,8 @@ Android分类集合
 - [BottomNavigation](https://github.com/LittleFriendsGroup/BottomNavigation)  BottomNavigation设计规范
 - [Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)  Bottom Navigation widget componen
 - [BottomBarLayout](https://github.com/chaychan/BottomBarLayout)  一个轻量级的底部导航控件 可设置未读数、提示点、提示消息
-- [Android](xxxxx)  自定义
+- [Android](https://github.com/pinguo-zhouwei/AndroidTrainingSimples)  各种底部导航
+- [FragmentTabhostUtils](https://github.com/open-android/FragmentTabhostUtils)  Android底部导航封装
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -147,8 +148,8 @@ Android分类集合
 - [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)  图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
 - [TelegramGallery](https://github.com/TangXiaoLv/TelegramGallery)  仿QQ相册选择器
 - [ImageSelector](https://github.com/smuyyh/ImageSelector)   Android 图片选择器。充分自由定制，极大程度简化使用，支持图库多选/图片预览/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调/沉浸式状态栏 
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [PhotoOut](https://github.com/hss01248/PhotoOut)  拍照/图片选择--裁剪--压缩 一条龙
+
 ## 二维码条形码 
 - [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 - [StarBarcode](https://github.com/kangdp/StarBarcode)  wanAndroid群星爷二维码
@@ -185,7 +186,11 @@ Android分类集合
 - [SelectCityDome](https://github.com/doubijuan/SelectCityDome)  Android 仿美团网,探索ListView的A-Z字母排序功能实现选择城市，记得在我刚开始接触到美团网的时候就对美团网这个城市定位、选择城市功能很感兴趣
 - [citypicker](https://github.com/crazyandcoder/citypicker)  citypicker城市选择器，详细的省市区地址信息，支持仿iOS滚轮实现，仿京东样式，一级或者三级列表展示方式。
 - [SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)  仿美团选择城市、微信通讯录、饿了么点餐列表的导航悬停分组索引列表。 http://blog.csdn.net/zxt0601/article/…
-
+- [CityPickerRecyclerVeiw](https://github.com/BaiShou/CityPickerRecyclerVeiw)  使用RecyclerView 仿美团-城市选择器,定位、热门
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
 ## 图片 
 - [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)  大图长图加载
 - [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)  图片查看器，类似淘宝详情图片
@@ -221,6 +226,12 @@ Android分类集合
 - [FlickerProgressBar](https://github.com/LineChen/FlickerProgressBar)  仿应用宝下载进度条
 - [SpinnerLoading](https://github.com/lusfold/SpinnerLoading)  炫酷loading
 - [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)  Material Design ProgressBar
+- [BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView)  模仿饿了么加载效果
+- [TaoBaoProgressBar](https://github.com/liuhuibin/TaoBaoProgressBar)  一个模仿淘宝秒杀商品页面的进度条
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 
 
@@ -233,9 +244,15 @@ Android分类集合
 - [WSLiveDemo](https://github.com/WangShuo1143368701/WSLiveDemo)  音视频，直播SDK，rtmp推流，录制视频，滤镜。百万用户，线上迭代半年，已经稳定。
 - [SuperVideoPlayer](https://github.com/curtis2/SuperVideoPlayer)  集成android流媒体处理vitamio框架。实现播放本地视频，网络视频，直播等功能。
 - [video-live](https://github.com/littleMeng/video-live)  基于vitamio的视频播放 直播
+- [ijkplayer](https://github.com/Leifzhang/ijkplayer)  基于bilibili（ijkplayer）视频直播的demo
+- [WliveTV](https://github.com/wanliyang1990/WliveTV)  基于ijkplayer的视频直播软件
+- [JieCaoVideoPlayer-develo](https://github.com/StephenChow1989/JieCaoVideoPlayer-develop)  真正实现Android的全屏视频播放，支持完全自定义UI、手势修改进度和音量、hls、rtsp，设置http头信息，也能在ListView、ViewPager和ListView、ViewPager和Fragment等多重嵌套模式下全屏工作，占用空间非常小，不到60k
+- [XibaVideoPlayer](https://github.com/tough1985/XibaVideoPlayer)  基于IjkVideoPlayer封装的一个视频播放控件
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
 
 ## 通用加载页 可封装到BaseActivity或BaseFragment 
 - [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper)  换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。

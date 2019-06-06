@@ -232,7 +232,7 @@ Android分类集合
 - [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)  （公认比较好）ndroid VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen.高度自定义的开源安卓视频框架
 - [WSLiveDemo](https://github.com/WangShuo1143368701/WSLiveDemo)  音视频，直播SDK，rtmp推流，录制视频，滤镜。百万用户，线上迭代半年，已经稳定。
 - [SuperVideoPlayer](https://github.com/curtis2/SuperVideoPlayer)  集成android流媒体处理vitamio框架。实现播放本地视频，网络视频，直播等功能。
-- [video-live](https://github.com/littleMeng/video-live)  基于vitamio
+- [video-live](https://github.com/littleMeng/video-live)  基于vitamio的视频播放 直播
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

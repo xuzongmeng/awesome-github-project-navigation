@@ -28,7 +28,7 @@ Java分类集合
 - [ssmServer](https://github.com/change9326/ssmServer)  ssmServer
 - [beauty_ssm](https://github.com/wosyingjun/beauty_ssm)  优雅的SSM（Spring+SpringMVC+Mybatis）框架
 - [springmvc-mybatis-learning](https://github.com/brianway/springmvc-mybatis-learning)  SpringMVC 和 MyBatis 学习笔记，搭配示例，主要讲解一些基础的概念、用法和配置
-- [Android](xxxxx)  自定义
+- [SpringMVC](https://github.com/Cenyol/SpringMVC)  SpringMVC的学习例子，使用Intellij进行的，spring，hibernate，mysql http://my.oschina.net/gaussik/blog/38…
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

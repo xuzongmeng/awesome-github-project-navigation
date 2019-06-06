@@ -10,7 +10,7 @@ Java分类集合
 - [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)  包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)  提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限
 - [SpringBootExamples](https://github.com/souyunku/SpringBootExamples)  Spring Boot 学习教程 https://www.souyunku.com/categories/#…
-- [Android](xxxxx)  自定义
+- [mySpringBoot](https://github.com/MyBeany/mySpringBoot)  从零搭建自己的springboot后台框架
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 ## springCloud教程
@@ -29,8 +29,8 @@ Java分类集合
 - [beauty_ssm](https://github.com/wosyingjun/beauty_ssm)  优雅的SSM（Spring+SpringMVC+Mybatis）框架
 - [springmvc-mybatis-learning](https://github.com/brianway/springmvc-mybatis-learning)  SpringMVC 和 MyBatis 学习笔记，搭配示例，主要讲解一些基础的概念、用法和配置
 - [SpringMVC](https://github.com/Cenyol/SpringMVC)  SpringMVC的学习例子，使用Intellij进行的，spring，hibernate，mysql http://my.oschina.net/gaussik/blog/38…
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [SpringMVCDemo](https://github.com/gaussic/SpringMVCDemo)  This is a demo of my spring mvc project.
+- [web](https://github.com/chwshuang/web)  集成Spring4.x+SpringMVC+Mybatis的Java后台管理框架
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 
@@ -40,8 +40,8 @@ Java分类集合
 - [Guns](https://github.com/stylefeng/Guns)  Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)
 - [uid-generator](https://github.com/baidu/uid-generator)  ID生成策略
 - [any-video](https://github.com/ChinaSilence/any-video)  是基于 Spring Boot 开发的应用，利用网络爬虫技术，实时解析互联网资源，视频播放
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [eladmin](https://github.com/elunez/eladmin)  pring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 https://auauz.net
+- [mall](https://github.com/macrozheng/mall)  mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块
+- [cim](https://github.com/crossoverJie/cim)  cim(cross IM) 适用于开发者的即时通讯系统 https://crossoverjie.top/categories/N…
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

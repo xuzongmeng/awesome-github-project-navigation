@@ -44,4 +44,4 @@ Java分类集合
 - [mall](https://github.com/macrozheng/mall)  mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块
 - [cim](https://github.com/crossoverJie/cim)  cim(cross IM) 适用于开发者的即时通讯系统 https://crossoverjie.top/categories/N…
 - [springboot_authority](https://github.com/qzw1210/springboot_authority)  包括用户管理，角色管理，资源链接管理模块，可以动态分配权限和角色。 使用springboot、springdata jpa
-- [Android](xxxxx)  自定义
+- [jeesite](https://github.com/thinkgem/jeesite) 企业信息化开发基础平台，Java企业应用开源框架 Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。

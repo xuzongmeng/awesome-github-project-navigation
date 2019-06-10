@@ -12,7 +12,7 @@ Java分类集合
 - [SpringBootExamples](https://github.com/souyunku/SpringBootExamples)  Spring Boot 学习教程 https://www.souyunku.com/categories/#…
 - [mySpringBoot](https://github.com/MyBeany/mySpringBoot)  从零搭建自己的springboot后台框架
 - [spring-boot-sso](https://github.com/chenfromsz/spring-boot-sso)  spingboot书籍
-- [Android](xxxxx)  自定义
+- [SpringBootBucket](https://github.com/yidao620c/SpringBootBucket)  spingboot全家桶
 ## springCloud教程
 - [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)  Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 http://www.ityouknow.com/
 - [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)  《史上最简单的Spring Cloud教程源码》

@@ -64,7 +64,7 @@ Android分类集合
 - [BottomBarLayout](https://github.com/chaychan/BottomBarLayout)  一个轻量级的底部导航控件 可设置未读数、提示点、提示消息
 - [Android](https://github.com/pinguo-zhouwei/AndroidTrainingSimples)  各种底部导航
 - [FragmentTabhostUtils](https://github.com/open-android/FragmentTabhostUtils)  Android底部导航封装
-- [Android](xxxxx)  自定义
+- [NavigationTabBar](https://github.com/Devlight/NavigationTabBar)  Navigation tab bar with colorful interactions.
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -260,7 +260,7 @@ Android分类集合
 - [MultiStateView](https://github.com/Kennyc1012/MultiStateView)  Android View that displays different content based on its state
 - [LoadingLayoutDemo](https://github.com/weavey/LoadingLayoutDemo)  别为加载中、无网络、无数据、出错四种情况，经常要使用，所以封成库引用了，方便使用，顺便分享出来。先看一下效果：
 - [StateView](https://github.com/lany192/StateView)  定义的多视图切换类，包含加载中、错误、结果空、网络异常和内容这5种视图，
-- [Android](xxxxx)  自定义
+- [StatusLayoutManager](https://github.com/Bakumon/StatusLayoutManager)  (比较好)切换不同的数据状态布局，包含加载中、空数据和出错状态，可自定义状态布局。
 - [Android](xxxxx)  自定义
 ## 快应用 
 - [quickapp_gank](https://github.com/ColorfulCat/quickapp_gank)  快应用版本的Gank客户端

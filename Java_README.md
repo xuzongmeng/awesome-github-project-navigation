@@ -11,7 +11,7 @@ Java分类集合
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)  提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限
 - [SpringBootExamples](https://github.com/souyunku/SpringBootExamples)  Spring Boot 学习教程 https://www.souyunku.com/categories/#…
 - [mySpringBoot](https://github.com/MyBeany/mySpringBoot)  从零搭建自己的springboot后台框架
-- [Android](xxxxx)  自定义
+- [spring-boot-sso](https://github.com/chenfromsz/spring-boot-sso)  spingboot书籍
 - [Android](xxxxx)  自定义
 ## springCloud教程
 - [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)  Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 http://www.ityouknow.com/
@@ -45,3 +45,12 @@ Java分类集合
 - [cim](https://github.com/crossoverJie/cim)  cim(cross IM) 适用于开发者的即时通讯系统 https://crossoverjie.top/categories/N…
 - [springboot_authority](https://github.com/qzw1210/springboot_authority)  包括用户管理，角色管理，资源链接管理模块，可以动态分配权限和角色。 使用springboot、springdata jpa
 - [jeesite](https://github.com/thinkgem/jeesite) 企业信息化开发基础平台，Java企业应用开源框架 Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
+- [easyweb-jwt](https://github.com/whvcse/easyweb-jwt)  基于 SpringBoot、jwt和JwtPermission实现的前后端分离开发框架，接口遵循RESTful风格。 http://oauth.easyweb.vip/
+## 管理台模板 
+- [hAdmin](https://github.com/huangyaoxin/hAdmin)  基于原生HTML
+- [iDataV](https://github.com/yyhsong/iDataV)  大数据可视化
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+## 其他 
+- [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)  收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料

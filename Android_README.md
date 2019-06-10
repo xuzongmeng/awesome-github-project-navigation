@@ -262,3 +262,5 @@ Android分类集合
 - [StateView](https://github.com/lany192/StateView)  定义的多视图切换类，包含加载中、错误、结果空、网络异常和内容这5种视图，
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
+## 快应用 
+- [quickapp_gank](https://github.com/ColorfulCat/quickapp_gank)  快应用版本的Gank客户端

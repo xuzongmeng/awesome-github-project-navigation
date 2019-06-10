@@ -47,10 +47,11 @@ Java分类集合
 - [jeesite](https://github.com/thinkgem/jeesite) 企业信息化开发基础平台，Java企业应用开源框架 Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
 - [easyweb-jwt](https://github.com/whvcse/easyweb-jwt)  基于 SpringBoot、jwt和JwtPermission实现的前后端分离开发框架，接口遵循RESTful风格。 http://oauth.easyweb.vip/
 ## 管理台模板 
-- [hAdmin](https://github.com/huangyaoxin/hAdmin)  基于原生HTML
+- [hAdmin](https://github.com/huangyaoxin/hAdmin)  基于原生HTML管理台模板
 - [iDataV](https://github.com/yyhsong/iDataV)  大数据可视化
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)  基于原生HTML管理台模板
+- [LitAdmin](https://github.com/jerry9022/LitAdmin)  基于Vue管理台模板
 - [Android](xxxxx)  自定义
 ## 其他 
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)  收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+- [TranslatorX](https://github.com/pingfangx/TranslatorX)  JetBrains 系列软件汉化包 关键字: Android Studio 3.4 汉化包 CLion 2019.1 汉化包 DataGrip 2019.1 汉化包 GoLand 2019.1 汉化包 IntelliJ IDEA 2019.1 汉化包 PhpStorm 2019.1 汉化包 PyCharm 2019.1 汉化包 RubyMine 2019.1 汉化包 WebStorm 2019.1 汉化包

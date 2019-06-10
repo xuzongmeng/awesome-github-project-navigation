@@ -12,3 +12,8 @@
 - [neditor](https://github.com/notadd/neditor)  富文本编辑器
 - [eustia](https://github.com/liriliri/eustia)  Tool for generating utility libraries https://eustia.liriliri.io/
 - [finger-mover](https://github.com/HcySunYang/finger-mover)  finger-mover
+- [lantern](https://github.com/getlantern/lantern)  ti子工具
+- [996.ICU](https://github.com/996icu/996.ICU)  996.ICU
+- [91_porn_spider](https://github.com/eqblog/91_porn_spider)  91porn爬虫
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义

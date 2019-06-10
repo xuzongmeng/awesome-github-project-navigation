@@ -19,8 +19,8 @@ https://github.com/docsifyjs/docsify
 - [React-Native-App](https://github.com/vczero/React-Native-App)   React Native项目
 - [JueJinClient](https://github.com/wangdicoder/JueJinClient)   React Native项目
 - [shopping-react-native](https://github.com/bigsui/shopping-react-native)  购物app
-- [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular)  ,它基于React Native支持Android和iOS双平台。#适配RN最新版在这里☞#
-- [Android](xxxxx)  自定义
+- [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular)  它基于React Native支持Android和iOS双平台。#适配RN最新版在这里☞#
+- [surmon.me.native](https://github.com/surmon-china/surmon.me.native)  React Native项目
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -52,10 +52,17 @@ https://github.com/docsifyjs/docsify
 - [vueGoBack](https://github.com/bingyang519/vueGoBack)  vue单页面，多路由，前进刷新，后退不刷新。
 - [vue-data-loading](https://github.com/bedlate/vue-data-loading)  下拉刷新上拉加载
 - [vue-drapload](https://github.com/jy03078959/vue-drapload)  下拉刷新上拉加载
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-
-
+- [vue-pull-refresh](https://github.com/lakb248/vue-pull-refresh)  下拉刷新
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm)  仿饿了么
+- [mint-ui](https://github.com/ElemeFE/mint-ui)  移动端组件
+- [vue-material](https://github.com/vuematerial/vue-material)  移动端组件
+- [musiccloudWebapp](https://github.com/hua1995116/musiccloudWebapp)  vuejs仿网易云音乐 http://www.huayifeng.top:8080
+- [vue-ts-daily](https://github.com/xiaomuzhu/vue-ts-daily)  基于vue、Typescript、pwa的一款习惯养成app
+- [muse-ui](https://github.com/museui/muse-ui)  移动端组件
+- [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp)  vuejs仿网易云音乐
+- [vue-objccn](https://github.com/halfrost/vue-objccn)  用 Vue.js 开发的跨三端应用 / Use Vue.js to develop a cross-platform full stack application
+- [PicGo](https://github.com/Molunerfinn/PicGo)  上传组件
+- [mint-loadmore](https://github.com/mint-ui/mint-loadmore)  上拉加载
 ## 微信小程序
 - [hema](https://github.com/TeanLee/hema)  原生：仿盒马app
 - [wepy-mall](https://github.com/dyq086/wepy-mall)  基于wepy ： 商城app
@@ -64,6 +71,15 @@ https://github.com/docsifyjs/docsify
 - [leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy)   基于wepy ： 商城app
 - [wepy](https://github.com/Tencent/wepy)  腾讯微信小程序开发框架
 - [mpvue](https://github.com/Meituan-Dianping/mpvue)  美团微信小程序开发框架
+## 组件
+- [material-design-lite](https://github.com/google/material-design-lite)  material-design-lite
+- [ant-design](https://github.com/ant-design/ant-design)   A UI Design Language https://ant.design for TypeScript
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll)  滚动插件
+- [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript)  vue-webpack-typescript模板工程
+- [iview](https://github.com/iview/iview)  移动端组件
+- [Android](xxxxx)  自定义
+
+- [mescroll](https://github.com/mescroll/mescroll)  下拉刷新
 ## 适配
 - [Android](https://github.com/imochen/hotcss)  移动端布局终极解决方案 --- 让移动端布局开发更加容易 http://imochen.github.io/hotcss/
-- [Android](xxxxx)  自定义
+

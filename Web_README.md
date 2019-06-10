@@ -40,6 +40,7 @@ https://github.com/docsifyjs/docsify
 - [melon](https://github.com/react-melon/melon)  react ui comopents http://react-melon.github.io/melon
 - [Android](xxxxx)  自定义
 ## Vue
+- [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)  Vue相关开源项目库汇总 http://www.opendigg.com/tags/front-vue
 - [material-ui](https://github.com/mui-org/material-ui)   Material Design
 - [mui](http://dev.dcloud.net.cn/mui)  移动端组件
 - [vant](https://github.com/youzan/vant)  移动端组件

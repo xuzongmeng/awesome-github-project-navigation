@@ -266,7 +266,7 @@ Android分类集合
 - [quickapp_gank](https://github.com/ColorfulCat/quickapp_gank)  快应用版本的Gank客户端
 ## 热更新 热修复 
 - [AndFix](https://github.com/alibaba/AndFix)  热修复
-- [Android](xxxxx)  自定义
+- [tinker](https://github.com/Tencent/tinker)  热修复
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

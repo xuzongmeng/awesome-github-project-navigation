@@ -64,17 +64,6 @@ https://github.com/docsifyjs/docsify
 - [leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy)   基于wepy ： 商城app
 - [wepy](https://github.com/Tencent/wepy)  腾讯微信小程序开发框架
 - [mpvue](https://github.com/Meituan-Dianping/mpvue)  美团微信小程序开发框架
-
-
-## other
-- [docsify](https://github.com/docsifyjs/docsify)  生成项目帮助文档
-- [minirefresh](https://github.com/minirefresh/minirefresh)  下拉刷新上拉加载
-- [fanqiang](https://github.com/bannedbook/fanqiang)  ti子工具
-- [baidu-nolimit](https://github.com/cloudroc/baidu-nolimit)  自定义
-- [laya-snakes](https://github.com/lanbomo/laya-snakes)  nake game，仿贪吃蛇大作战游戏，AI 基于layabox
-- [material-refresh](https://github.com/lightningtgc/material-refresh)  下拉刷新
-- [Waves](https://github.com/fians/Waves)  Google's Material Design http://fian.my.id/Waves/ 水波纹效果
-- [Android](https://github.com/JsAaron/jQuery)  前端学习
-- [neditor](https://github.com/notadd/neditor)  富文本编辑器
-- [eustia](https://github.com/liriliri/eustia)  Tool for generating utility libraries https://eustia.liriliri.io/
-- [finger-mover](https://github.com/HcySunYang/finger-mover)  finger-mover
+## 适配
+- [Android](https://github.com/imochen/hotcss)  移动端布局终极解决方案 --- 让移动端布局开发更加容易 http://imochen.github.io/hotcss/
+- [Android](xxxxx)  自定义

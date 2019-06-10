@@ -194,7 +194,7 @@ Android分类集合
 ## 图片 
 - [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)  大图长图加载
 - [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)  图片查看器，类似淘宝详情图片
-- [Android](xxxxx)  自定义
+- [Tiny](https://github.com/Sunzxyong/Tiny) 一个高保真、高压缩比的图片压缩框架）
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -248,7 +248,7 @@ Android分类集合
 - [WliveTV](https://github.com/wanliyang1990/WliveTV)  基于ijkplayer的视频直播软件
 - [JieCaoVideoPlayer-develo](https://github.com/StephenChow1989/JieCaoVideoPlayer-develop)  真正实现Android的全屏视频播放，支持完全自定义UI、手势修改进度和音量、hls、rtsp，设置http头信息，也能在ListView、ViewPager和ListView、ViewPager和Fragment等多重嵌套模式下全屏工作，占用空间非常小，不到60k
 - [XibaVideoPlayer](https://github.com/tough1985/XibaVideoPlayer)  基于IjkVideoPlayer封装的一个视频播放控件
-- [Android](xxxxx)  自定义
+- [small-video-record](https://github.com/mabeijianxi/small-video-record)  利用FFmpeg视频录制微信小视频与其压缩处理
 - [Android](xxxxx)  自定义
 
 
@@ -264,3 +264,9 @@ Android分类集合
 - [Android](xxxxx)  自定义
 ## 快应用 
 - [quickapp_gank](https://github.com/ColorfulCat/quickapp_gank)  快应用版本的Gank客户端
+## 热更新 热修复 
+- [AndFix](https://github.com/alibaba/AndFix)  热修复
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义

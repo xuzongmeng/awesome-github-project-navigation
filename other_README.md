@@ -1,0 +1,14 @@
+## other
+- [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)  买房小知识
+- [docsify](https://github.com/docsifyjs/docsify)  生成项目帮助文档
+- [minirefresh](https://github.com/minirefresh/minirefresh)  下拉刷新上拉加载
+- [fanqiang](https://github.com/bannedbook/fanqiang)  ti子工具
+- [shadowsocksr-backup](https://github.com/shadowsocksr-backup )  ti子工具
+- [baidu-nolimit](https://github.com/cloudroc/baidu-nolimit)  自定义
+- [laya-snakes](https://github.com/lanbomo/laya-snakes)  nake game，仿贪吃蛇大作战游戏，AI 基于layabox
+- [material-refresh](https://github.com/lightningtgc/material-refresh)  下拉刷新
+- [Waves](https://github.com/fians/Waves)  Google's Material Design http://fian.my.id/Waves/ 水波纹效果
+- [Android](https://github.com/JsAaron/jQuery)  前端学习
+- [neditor](https://github.com/notadd/neditor)  富文本编辑器
+- [eustia](https://github.com/liriliri/eustia)  Tool for generating utility libraries https://eustia.liriliri.io/
+- [finger-mover](https://github.com/HcySunYang/finger-mover)  finger-mover

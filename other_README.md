@@ -14,6 +14,6 @@
 - [finger-mover](https://github.com/HcySunYang/finger-mover)  finger-mover
 - [lantern](https://github.com/getlantern/lantern)  ti子工具
 - [996.ICU](https://github.com/996icu/996.ICU)  996.ICU
+- [955.WLB](https://github.com/formulahendry/955.WLB)  955白名单
 - [91_porn_spider](https://github.com/eqblog/91_porn_spider)  91porn爬虫
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [douyin-downloader](https://github.com/fly-studio/douyin-downloader)  抖音分享到本APP，自动下载【无水印】的视频，现在抖音关闭了分享，但是可以复制链接去下载

@@ -210,14 +210,7 @@ Android分类集合
 - [MaterialDesign](https://github.com/yechaoa/MaterialDesign)  Material Design 控件集合。ConstraintLayout、NestedScrollView、Toolbar、TabLayout、TextInputLayout。。。
 - [CoordinatorLayoutDemo](https://github.com/zhaochenpu/CoordinatorLayoutDemo)  CoordinatorLayoutDemo
 
-## 抽屉菜单 
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
 
 ## 加载Loading炫酷效果 
 - [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)  高仿新版58 加载动画
@@ -251,8 +244,15 @@ Android分类集合
 - [small-video-record](https://github.com/mabeijianxi/small-video-record)  利用FFmpeg视频录制微信小视频与其压缩处理
 - [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)  视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、
 
-
-
+## 即时通讯
+- [android-chat](https://github.com/wildfirechat/android-chat)  全开源即时通讯(野火IM)系统 高仿微信（包含安卓和ios以及后台） http://docs.wildfirechat.cn
+- [HRLChatUi](https://github.com/huangruiLearn/HRLChatUi)  android自定义聊天界面 支持语音 图片 视频 文件布局的显示
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
 
 ## 通用加载页 可封装到BaseActivity或BaseFragment 
 - [LoadViewHelper](https://github.com/LuckyJayce/LoadViewHelper)  换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。

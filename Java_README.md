@@ -31,7 +31,7 @@ Java分类集合
 - [SpringMVC](https://github.com/Cenyol/SpringMVC)  SpringMVC的学习例子，使用Intellij进行的，spring，hibernate，mysql http://my.oschina.net/gaussik/blog/38…
 - [SpringMVCDemo](https://github.com/gaussic/SpringMVCDemo)  This is a demo of my spring mvc project.
 - [web](https://github.com/chwshuang/web)  集成Spring4.x+SpringMVC+Mybatis的Java后台管理框架
-- [Android](xxxxx)  自定义
+- [ssm](https://github.com/liyifeng1994/ssm)  手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis http://blog.csdn.net/qq598535550/arti…
 - [Android](xxxxx)  自定义
 
 ## 开源项目 
@@ -48,6 +48,12 @@ Java分类集合
 - [easyweb-jwt](https://github.com/whvcse/easyweb-jwt)  基于 SpringBoot jwt和JwtPermission实现的前后端分离开发框架，接口遵循RESTful风格。 http://oauth.easyweb.vip/
 - [litemall](https://github.com/linlinjava/litemall)  Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [SSH_PersonInformation](https://github.com/hlk-1135/SSH_PersonInformation)  基于SSH的个人信息管理系统
+- [FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)  Spring Boot 2.0.4 & Shiro1.4.0 权限管理系统。预览地址：http://111.230.157.133/febs
+- [paascloud-master](https://github.com/paascloud/paascloud-master)  spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。 http://www.paascloud.net
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
 ## 管理台模板 
 - [hAdmin](https://github.com/huangyaoxin/hAdmin)  基于原生HTML管理台模板
 - [iDataV](https://github.com/yyhsong/iDataV)  大数据可视化
@@ -57,3 +63,5 @@ Java分类集合
 ## 其他 
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)  收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 - [TranslatorX](https://github.com/pingfangx/TranslatorX)  JetBrains 系列软件汉化包 关键字: Android Studio 3.4 汉化包 CLion 2019.1 汉化包 DataGrip 2019.1 汉化包 GoLand 2019.1 汉化包 IntelliJ IDEA 2019.1 汉化包 PhpStorm 2019.1 汉化包 PyCharm 2019.1 汉化包 RubyMine 2019.1 汉化包 WebStorm 2019.1 汉化包
+## 博客系统 
+- [halo](https://github.com/halo-dev/halo)  Halo 一款现代化的个人独立博客系统 https://halo.run

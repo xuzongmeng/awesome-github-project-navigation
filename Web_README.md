@@ -71,6 +71,8 @@ https://github.com/docsifyjs/docsify
 - [leshare-shop-wepy](https://github.com/coolhwm/leshare-shop-wepy)   基于wepy ： 商城app
 - [wepy](https://github.com/Tencent/wepy)  腾讯微信小程序开发框架
 - [mpvue](https://github.com/Meituan-Dianping/mpvue)  美团微信小程序开发框架
+- [awesome-wepy](https://github.com/aben1188/awesome-wepy)  Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
+
 ## 组件
 - [material-design-lite](https://github.com/google/material-design-lite)  material-design-lite
 - [ant-design](https://github.com/ant-design/ant-design)   A UI Design Language https://ant.design for TypeScript

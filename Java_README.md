@@ -45,7 +45,9 @@ Java分类集合
 - [cim](https://github.com/crossoverJie/cim)  cim(cross IM) 适用于开发者的即时通讯系统 https://crossoverjie.top/categories/N…
 - [springboot_authority](https://github.com/qzw1210/springboot_authority)  包括用户管理，角色管理，资源链接管理模块，可以动态分配权限和角色。 使用springboot、springdata jpa
 - [jeesite](https://github.com/thinkgem/jeesite) 企业信息化开发基础平台，Java企业应用开源框架 Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。
-- [easyweb-jwt](https://github.com/whvcse/easyweb-jwt)  基于 SpringBoot、jwt和JwtPermission实现的前后端分离开发框架，接口遵循RESTful风格。 http://oauth.easyweb.vip/
+- [easyweb-jwt](https://github.com/whvcse/easyweb-jwt)  基于 SpringBoot jwt和JwtPermission实现的前后端分离开发框架，接口遵循RESTful风格。 http://oauth.easyweb.vip/
+- [litemall](https://github.com/linlinjava/litemall)  Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+- [SSH_PersonInformation](https://github.com/hlk-1135/SSH_PersonInformation)  基于SSH的个人信息管理系统
 ## 管理台模板 
 - [hAdmin](https://github.com/huangyaoxin/hAdmin)  基于原生HTML管理台模板
 - [iDataV](https://github.com/yyhsong/iDataV)  大数据可视化

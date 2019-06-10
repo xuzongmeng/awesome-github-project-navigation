@@ -173,7 +173,7 @@ Android分类集合
 - [TDialog](https://github.com/Timmy-zzh/TDialog)  DialogFragment封装
 - [XPopupWindow](https://github.com/XuDeveloper/XPopupWindow)  PopupWindow using Kotlin
 - [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)  对PopupWindow常用API的简单封装，几行代码就搞定PopupWindow弹窗，使用Builder模式，链式调用，像使用AlertDialog 一样
-- [Android](xxxxx)  自定义
+- [PureComment](https://github.com/showzeng/PureComment)  模仿国际微博评论框 https://showzeng.itscoder.com/android…
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 
@@ -228,7 +228,7 @@ Android分类集合
 - [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)  Material Design ProgressBar
 - [BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView)  模仿饿了么加载效果
 - [TaoBaoProgressBar](https://github.com/liuhuibin/TaoBaoProgressBar)  一个模仿淘宝秒杀商品页面的进度条
-- [Android](xxxxx)  自定义
+- [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)  各种动画包含loading
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -240,7 +240,7 @@ Android分类集合
 - [ijkplayer](https://github.com/bilibili/ijkplayer)  Android/iOS video player based on FFmpeg n3.4,
 - [jjdxm_ijkplayer](https://github.com/lingcimi/jjdxm_ijkplayer)  开源小项目
 - [VideoRecorder](https://github.com/qdrzwd/VideoRecorder)  android视频录制，模仿微视，支持按下录制、抬起暂停。进度条断点显示。
-- [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)  （公认比较好）ndroid VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen.高度自定义的开源安卓视频框架
+- [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)  （公认比较好）android VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen.高度自定义的开源安卓视频框架
 - [WSLiveDemo](https://github.com/WangShuo1143368701/WSLiveDemo)  音视频，直播SDK，rtmp推流，录制视频，滤镜。百万用户，线上迭代半年，已经稳定。
 - [SuperVideoPlayer](https://github.com/curtis2/SuperVideoPlayer)  集成android流媒体处理vitamio框架。实现播放本地视频，网络视频，直播等功能。
 - [video-live](https://github.com/littleMeng/video-live)  基于vitamio的视频播放 直播
@@ -249,7 +249,7 @@ Android分类集合
 - [JieCaoVideoPlayer-develo](https://github.com/StephenChow1989/JieCaoVideoPlayer-develop)  真正实现Android的全屏视频播放，支持完全自定义UI、手势修改进度和音量、hls、rtsp，设置http头信息，也能在ListView、ViewPager和ListView、ViewPager和Fragment等多重嵌套模式下全屏工作，占用空间非常小，不到60k
 - [XibaVideoPlayer](https://github.com/tough1985/XibaVideoPlayer)  基于IjkVideoPlayer封装的一个视频播放控件
 - [small-video-record](https://github.com/mabeijianxi/small-video-record)  利用FFmpeg视频录制微信小视频与其压缩处理
-- [Android](xxxxx)  自定义
+- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)  视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、
 
 
 

@@ -1,4 +1,5 @@
-awesome-github-project-navigation 是由个人所有star项目的整理分类集合
+
+
 # 内容导航
 
 - [Java项目开源组件或项目](java_README.md) 

@@ -17,3 +17,8 @@
 - [955.WLB](https://github.com/formulahendry/955.WLB)  955白名单
 - [91_porn_spider](https://github.com/eqblog/91_porn_spider)  91porn爬虫
 - [douyin-downloader](https://github.com/fly-studio/douyin-downloader)  抖音分享到本APP，自动下载【无水印】的视频，现在抖音关闭了分享，但是可以复制链接去下载
+- [DoraemonKit](https://github.com/didi/DoraemonKit)  简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义

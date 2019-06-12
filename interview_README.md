@@ -6,7 +6,7 @@
 - [YCBlogs](https://github.com/yangchong211/YCBlogs)  包括Java基础及深入知识点，Android技术博客，Python，Go学习笔记
 - [LearningNotes](https://github.com/francistao/LearningNotes)  Android和java知识汇总
 - [AdvancedAndroid](https://github.com/SusionSuc/AdvancedAndroid)  一系列Android进阶文章。持续更新中..
-- [Android](xxxxx)  自定义
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  用动画的形式呈现解LeetCode题目的思路）
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

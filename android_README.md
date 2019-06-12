@@ -8,7 +8,16 @@ Android分类集合
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
-   自定义
+
+## 常用工具和快速项目基础架子 
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)  目前最牛B的工具类
+- [AndroidQuick](https://github.com/sdwfqin/AndroidQuick)  快速开发库--微信、支付宝支付（含签名，下单）、自定义View（验证码/密码，九宫格图片上传等）、图片预览、RxJava、EventBus、base层封装等 http://www.sdwfqin.com
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+   
 ## 沉浸栏 状态栏 
 - [StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt)  状态栏
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil)  StatusBarUtil
@@ -37,7 +46,6 @@ Android分类集合
 - [RefreshLayout](https://github.com/qstumn/RefreshLayout)  为任意View添加下拉刷新上拉加载更多的功能，支持NestedScrolling特性
 - [CanRefresh](https://github.com/canyinghao/CanRefresh)  可适配所有视图的下拉刷新上拉加载，并支持各种风格。
 - [RecycleView_PullToRefresh_LoadMore](https://github.com/zuiwuyuan/RecycleView_PullToRefresh_LoadMore)  整合多个开源项目，自认为相当简便使用的RecyclerView，支持下拉刷新，加载更多，添加Header和Footer。 
-- [Android-CommonRefreshLayout](https://github.com/mylhyl/Android-CommonRefreshLayout)  自定义
 - [LoadMoreRecyclerView](https://github.com/alicx/LoadMoreRecyclerView)  RecyclerView实现，支持下拉刷新，上拉自动加载，瀑布流及线性流切换
 - [Android-CommonRefreshLayout](https://github.com/mylhyl/Android-CommonRefreshLayout)  CommonRefreshLayout
 - [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView)  RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
@@ -49,6 +57,7 @@ Android分类集合
 - [PowerRecyclerView](https://github.com/lovejjfg/PowerRecyclerView)   load more.
 - [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)  目前已经弃用
 - [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh)  目前已经弃用      
+
 ## 底部导航 
 - [BottomTabBar](https://github.com/DevinFu/BottomTabBar)  Android应用中位于底部的tab栏
 - [FragmentTabHost](https://github.com/hlgao/FragmentTabHost)  FragmentTabHost + ViewPager实现Android底部Tab，并避免
@@ -65,8 +74,7 @@ Android分类集合
 - [Android](https://github.com/pinguo-zhouwei/AndroidTrainingSimples)  各种底部导航
 - [FragmentTabhostUtils](https://github.com/open-android/FragmentTabhostUtils)  Android底部导航封装
 - [NavigationTabBar](https://github.com/Devlight/NavigationTabBar)  Navigation tab bar with colorful interactions.
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+- [JPTabBar](https://github.com/peng8350/JPTabBar)  各种底部导航
 - [Android](xxxxx)  自定义
 ## 换肤 
 - [Android-skin-support](https://github.com/ximsfei/Android-skin-support)  一款用心去做的Android 换肤框架
@@ -187,7 +195,7 @@ Android分类集合
 - [citypicker](https://github.com/crazyandcoder/citypicker)  citypicker城市选择器，详细的省市区地址信息，支持仿iOS滚轮实现，仿京东样式，一级或者三级列表展示方式。
 - [SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)  仿美团选择城市、微信通讯录、饿了么点餐列表的导航悬停分组索引列表。 http://blog.csdn.net/zxt0601/article/…
 - [CityPickerRecyclerVeiw](https://github.com/BaiShou/CityPickerRecyclerVeiw)  使用RecyclerView 仿美团-城市选择器,定位、热门
-- [Android](xxxxx)  自定义
+- [CityPicker](https://github.com/zaaach/CityPicker)  城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -209,7 +217,9 @@ Android分类集合
 - [Lollipop-Demo](https://github.com/lenamuit/Lollipop-Demo)  2. Using SwipeRefreshLayout, Toolbars, RecycleView, CardView. Using Picasso, OkHttp, Retrofit and Butterknife more
 - [MaterialDesign](https://github.com/yechaoa/MaterialDesign)  Material Design 控件集合。ConstraintLayout、NestedScrollView、Toolbar、TabLayout、TextInputLayout。。。
 - [CoordinatorLayoutDemo](https://github.com/zhaochenpu/CoordinatorLayoutDemo)  CoordinatorLayoutDemo
-
+- [AndroidNavigation](https://github.com/listenzz/AndroidNavigation)  A library managing navigation, nested Fragment, StatusBar, Toolbar for Android
+- [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)  Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件
+- [Android](xxxxx)  自定义
 
 
 ## 加载Loading炫酷效果 
@@ -247,7 +257,7 @@ Android分类集合
 ## 即时通讯
 - [android-chat](https://github.com/wildfirechat/android-chat)  全开源即时通讯(野火IM)系统 高仿微信（包含安卓和ios以及后台） http://docs.wildfirechat.cn
 - [HRLChatUi](https://github.com/huangruiLearn/HRLChatUi)  android自定义聊天界面 支持语音 图片 视频 文件布局的显示
-- [Android](xxxxx)  自定义
+- [aurora-imui](https://github.com/jpush/aurora-imui)  General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
@@ -269,4 +279,18 @@ Android分类集合
 - [tinker](https://github.com/Tencent/tinker)  热修复
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 开源项目
+- [Ghost](https://github.com/GeekGhost/Ghost)  微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide
+- [bilisoleil](https://github.com/yoyiyi/bilisoleil)  B站
+- [TouTiao](https://github.com/chaychan/TouTiao)  精仿今日头条
+- [CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design)  CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。 https://cnodejs.org
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+## 版本更新
+- [AppUpdate](https://github.com/azhon/AppUpdate)  一个简单、轻量、可随意定制 的Android版本更新库 
+- [AppUpdate](https://github.com/WVector/AppUpdate)   Android 版本更新 🚀
+- [AndroidUpdater](https://github.com/chiclaim/AndroidUpdater)  Android App 通过 DownloadManager 版本更新
+- [YCUpdateApp](https://github.com/yangchong211/YCUpdateApp)更新弹窗，，可以设置普通更新或者强制更新。解决8.0以上通知栏不显示问题，解决7.0以上安装apk异常，下载完成则会自动提示安装；下载异常，失败，错误等状态，支持重启下载任务；还支持自定义下载路径。代码量少，调用简单……
 - [Android](xxxxx)  自定义

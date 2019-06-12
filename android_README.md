@@ -222,7 +222,7 @@ Android分类集合
 - [CoordinatorLayoutDemo](https://github.com/zhaochenpu/CoordinatorLayoutDemo)  CoordinatorLayoutDemo
 - [AndroidNavigation](https://github.com/listenzz/AndroidNavigation)  A library managing navigation, nested Fragment, StatusBar, Toolbar for Android
 - [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)  Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件
-- [Android](xxxxx)  自定义
+- [MaterialDesignDemo](https://github.com/burgessjp/MaterialDesignDemo)  Open Learning Project Base on Material Design Support Library
 
 
 ## 加载Loading炫酷效果 
@@ -297,6 +297,11 @@ Android分类集合
 - [AndFix](https://github.com/alibaba/AndFix)  热修复
 - [tinker](https://github.com/Tencent/tinker)  热修复
 - [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 动画
+- [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 

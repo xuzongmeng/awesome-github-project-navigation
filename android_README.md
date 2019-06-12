@@ -257,11 +257,26 @@ Android分类集合
 - [XibaVideoPlayer](https://github.com/tough1985/XibaVideoPlayer)  基于IjkVideoPlayer封装的一个视频播放控件
 - [small-video-record](https://github.com/mabeijianxi/small-video-record)  利用FFmpeg视频录制微信小视频与其压缩处理
 - [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)  视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、
+- [remusic](https://github.com/aa112901/remusic)  仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
 
 ## 即时通讯
 - [android-chat](https://github.com/wildfirechat/android-chat)  全开源即时通讯(野火IM)系统 高仿微信（包含安卓和ios以及后台） http://docs.wildfirechat.cn
 - [HRLChatUi](https://github.com/huangruiLearn/HRLChatUi)  android自定义聊天界面 支持语音 图片 视频 文件布局的显示
 - [aurora-imui](https://github.com/jpush/aurora-imui)  General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
+
+## 支付
+- [RxPay](https://github.com/simplezhli/RxPay)  支付宝、微信支付快速集成
+- [Android](xxxxx)  自定义
+- [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

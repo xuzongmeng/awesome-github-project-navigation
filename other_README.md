@@ -4,7 +4,7 @@
 - [minirefresh](https://github.com/minirefresh/minirefresh)  下拉刷新上拉加载
 - [fanqiang](https://github.com/bannedbook/fanqiang)  ti子工具
 - [shadowsocksr-backup](https://github.com/shadowsocksr-backup )  ti子工具
-- [baidu-nolimit](https://github.com/cloudroc/baidu-nolimit)  自定义
+- [baidu-nolimit](https://github.com/cloudroc/baidu-nolimit)  百度云大文件下载破解,chrome插件
 - [laya-snakes](https://github.com/lanbomo/laya-snakes)  nake game，仿贪吃蛇大作战游戏，AI 基于layabox
 - [material-refresh](https://github.com/lightningtgc/material-refresh)  下拉刷新
 - [Waves](https://github.com/fians/Waves)  Google's Material Design http://fian.my.id/Waves/ 水波纹效果

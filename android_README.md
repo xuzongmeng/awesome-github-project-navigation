@@ -96,6 +96,9 @@ Android分类集合
 - [BezierViewPager](https://github.com/qdxxxx/BezierViewPager)  自定义
 - [banner](https://github.com/youth5201314/banner)  ndroid广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView)  一个带渐变层叠动画的左右滑动效果（类似于探探、tinder）
+- [XBanner](https://github.com/xiaohaibin/XBanner)  持图片无限轮播，支持AndroidX、自定义指示点、显示提示文字、切换动画、自定义布局，一屏显示多个等功能
+- [BannerView](https://github.com/pingerx/BannerView)  轮播图控件，支持无限循环轮播，支持三种常用页面特效，支持设置指示器等。满足大部分的项目需求，可以直接使用。
+- [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 ## 日志 
 - [LogUtils](https://github.com/pengwei1024/LogUtils   )  各种日志打印
@@ -232,7 +235,8 @@ Android分类集合
 - [BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView)  模仿饿了么加载效果
 - [TaoBaoProgressBar](https://github.com/liuhuibin/TaoBaoProgressBar)  一个模仿淘宝秒杀商品页面的进度条
 - [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)  各种动画包含loading
-- [Android](xxxxx)  自定义
+- [Android](https://github.com/as5846197/ViewStudy/blob/master/app/src/main/java/com/example/niugulu/viewstudy/view/LeafLoadingView.java)  风扇叶原博主https://blog.csdn.net/tianjian4592/article/details/44538605
+         https://www.jianshu.com/p/69270f8a936b  地址：  https://github.com/Ajian-studio/GALeafLoading
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

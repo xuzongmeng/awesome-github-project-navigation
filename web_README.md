@@ -73,6 +73,11 @@ https://github.com/docsifyjs/docsify
 - [wepy](https://github.com/Tencent/wepy)  腾讯微信小程序开发框架
 - [mpvue](https://github.com/Meituan-Dianping/mpvue)  美团微信小程序开发框架
 - [awesome-wepy](https://github.com/aben1188/awesome-wepy)  Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
+- [mpvue-shop](https://github.com/heyushuo/mpvue-shop)  基于mpvue的网易严选商城
+- [mpvue-meituan](https://github.com/privateEye-zzy/mpvue-meituan)  mpvue🚀仿美团
+- [mpvue-xbyjShop](https://github.com/yllg/mpvue-xbyjShop)  前端mpvue🚀后端nodejs🔋+thinkjs+mysql📂微信小程序商城
+- [awesome-mpvue](https://github.com/mpvue/awesome-mpvue) mpvue开源项目集合
+- [mpvue](https://github.com/WsmDyj/mpvue)  mpvue点个外卖，一个人也要好好吃饭。 mpvue 美团外卖(第三方)开源程序
 
 ## 组件
 - [material-design-lite](https://github.com/google/material-design-lite)  material-design-lite

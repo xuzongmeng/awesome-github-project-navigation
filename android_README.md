@@ -147,7 +147,7 @@ Android分类集合
 - [spruce-android](https://github.com/willowtreeapps/spruce-android) 闪烁加载视图列表，类似淘宝
 - [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)  自定义
 - [Skeleton](https://github.com/ethanhua/Skeleton)  闪烁加载视图列表
-- [Android](xxxxx)  自定义
+- [Broccoli](https://github.com/samlss/Broccoli)  闪烁加载视图列表 //这个人主页还有其他比较好的项目
 - [Android](xxxxx)  自定义
 ## 相册选择器 
 - [Matisse](https://github.com/zhihu/Matisse)  知乎开源相册

@@ -13,7 +13,7 @@ Android分类集合
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)  目前最牛B的工具类
 - [AndroidQuick](https://github.com/sdwfqin/AndroidQuick)  快速开发库--微信、支付宝支付（含签名，下单）、自定义View（验证码/密码，九宫格图片上传等）、图片预览、RxJava、EventBus、base层封装等 http://www.sdwfqin.com
 - [TaoBaoDetailDemo](https://github.com/Hankkin/TaoBaoDetailDemo)  访淘宝详情
-- [Android](xxxxx)  自定义
+- [LSettingView](https://github.com/leonHua/LSettingView)  通用条目
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

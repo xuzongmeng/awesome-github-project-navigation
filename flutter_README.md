@@ -7,3 +7,5 @@
 - [wanandroid_flutter](https://github.com/shijiacheng/wanandroid_flutter)  flutter-wanAndroid版本
 - [flutter-go](https://github.com/alibaba/flutter-go)  flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [native-xdm](https://github.com/bailicangdu/native-xdm)  基于 Flutter 构建一个跨平台的原生APP
+- [Flutter_CommonApp](https://github.com/MeandNi/Flutter_CommonApp)  打造一款通用的AppUI结构，包括登录、注册等通用 UI 界面及各工具类和公共部分。
+- [Android](xxxxx)  自定义

@@ -302,7 +302,7 @@ Android分类集合
 
 ## 动画
 - [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)  自定义
-- [Android](xxxxx)  自定义
+- [Material-Animations](https://github.com/lgvalle/Material-Animations)  自定义
 - [Android](xxxxx)  自定义
 
 ## 开源项目

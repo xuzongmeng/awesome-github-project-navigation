@@ -15,7 +15,7 @@ Android分类集合
 - [TaoBaoDetailDemo](https://github.com/Hankkin/TaoBaoDetailDemo)  访淘宝详情
 - [LSettingView](https://github.com/leonHua/LSettingView)  通用条目
 - [uitableview4android](https://github.com/DayS/uitableview4android)  通用条目
-- [QMUI_Android](https://github.com/Tencent/QMUI_Android)  腾讯:提高 Android UI 开发效率的 UI 库
+- [QMUI_Android](https://github.com/Tencent/QMUI_Android)  有注解可以去学习写法 ：腾讯:提高 Android UI 开发效率的 UI 库,
 - [Android](xxxxx)  自定义
    
 ## 沉浸栏 状态栏 

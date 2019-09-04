@@ -16,7 +16,7 @@ Android分类集合
 - [LSettingView](https://github.com/leonHua/LSettingView)  通用条目
 - [uitableview4android](https://github.com/DayS/uitableview4android)  通用条目
 - [QMUI_Android](https://github.com/Tencent/QMUI_Android)  有注解可以去学习写法 ：腾讯:提高 Android UI 开发效率的 UI 库,
-- [Android](xxxxx)  自定义
+- [SuperTextView](https://github.com/lygttpod/SuperTextView)  SuperTextView 万能android条目布局工具类
    
 ## 沉浸栏 状态栏 
 - [StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt)  状态栏
@@ -303,7 +303,7 @@ Android分类集合
 ## 动画
 - [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)  自定义
 - [Material-Animations](https://github.com/lgvalle/Material-Animations)  自定义
-- [Android](xxxxx)  自定义
+- [AndroidAnimationExercise](https://github.com/REBOOTERS/AndroidAnimationExercise)  Android 动画各种实现，包括帧动画、补间动画和属性动画的总结分享
 
 ## 开源项目
 - [Ghost](https://github.com/GeekGhost/Ghost)  微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide

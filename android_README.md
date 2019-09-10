@@ -98,7 +98,7 @@ Android分类集合
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView)  一个带渐变层叠动画的左右滑动效果（类似于探探、tinder）
 - [XBanner](https://github.com/xiaohaibin/XBanner)  持图片无限轮播，支持AndroidX、自定义指示点、显示提示文字、切换动画、自定义布局，一屏显示多个等功能
 - [BannerView](https://github.com/pingerx/BannerView)  轮播图控件，支持无限循环轮播，支持三种常用页面特效，支持设置指示器等。满足大部分的项目需求，可以直接使用。
-- [Android](xxxxx)  自定义
+- [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)  好不错，各种炫酷
 - [Android](xxxxx)  自定义
 ## 日志 
 - [LogUtils](https://github.com/pengwei1024/LogUtils   )  各种日志打印

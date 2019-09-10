@@ -40,7 +40,7 @@ Java分类集合
 - [Guns](https://github.com/stylefeng/Guns)  Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)
 - [uid-generator](https://github.com/baidu/uid-generator)  ID生成策略
 - [any-video](https://github.com/ChinaSilence/any-video)  是基于 Spring Boot 开发的应用，利用网络爬虫技术，实时解析互联网资源，视频播放
-- [eladmin](https://github.com/elunez/eladmin)  pring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 https://auauz.net
+- [eladmin](https://github.com/elunez/eladmin) ██ 项目目前所用：pring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 https://auauz.net
 - [mall](https://github.com/macrozheng/mall)  mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块
 - [cim](https://github.com/crossoverJie/cim)  cim(cross IM) 适用于开发者的即时通讯系统 https://crossoverjie.top/categories/N…
 - [SSM](https://github.com/crossoverJie/SSM)  https://crossoverjie.top/categories/SSM/

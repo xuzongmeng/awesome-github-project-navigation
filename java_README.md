@@ -53,7 +53,9 @@ Java分类集合
 - [paascloud-master](https://github.com/paascloud/paascloud-master)  spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。 http://www.paascloud.net
 - [biu](https://gitee.com/caibaohong/biu)  biu，一个springboot+vue实现的前后端分离的脚手架。包括：菜单权限、按钮权限、接口权限。
 - [vhr](https://gitee.com/sunwenhao001/vhr) 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-                                               
+- [dp-BOOT](https://gitee.com/dp_group/dp-BOOT)  基于SpringBoot2.0框架的权限管理系统，支持操作权限和数据权限，
+- [renren-fast](https://gitee.com/renrenio/renren-fast)  轻量级的Spring Boot2.1快速开发平台，其设计目标是开发迅速、学习简单、轻量级、易扩展；使用Spring Boot、Shiro、MyBatis、Redis、Bootstrap、Vue2.x等框架，
+包含：管理员列表、角色管理、菜单管理、定时任务、参数管理、代码生成器、日志管理、云存储、API模块(APP接口开发利器)、前后端分离                                               
 
 ## 管理台模板 
 - [hAdmin](https://github.com/huangyaoxin/hAdmin)  基于原生HTML管理台模板

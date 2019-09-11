@@ -51,7 +51,8 @@ Java分类集合
 - [SSH_PersonInformation](https://github.com/hlk-1135/SSH_PersonInformation)  基于SSH的个人信息管理系统
 - [FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)  Spring Boot 2.0.4 & Shiro1.4.0 权限管理系统。预览地址：http://111.230.157.133/febs
 - [paascloud-master](https://github.com/paascloud/paascloud-master)  spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。 http://www.paascloud.net
-
+- [biu](https://gitee.com/caibaohong/biu)  biu，一个springboot+vue实现的前后端分离的脚手架。
+- [Android](xxxxx)  自定义
 
 
 

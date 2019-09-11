@@ -1,13 +1,13 @@
 Android分类集合
 
 ## 抽屉菜单 
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
+
+
+
 
 ## 常用工具和快速项目基础架子 
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)  目前最牛B的工具类
@@ -25,12 +25,12 @@ Android分类集合
 - [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)  沉浸栏比较优雅的方案
 - [Sofia](https://github.com/yanzhenjie/Sofia)  Android沉浸式效果的实现，状态栏和导航栏均支持设置颜色、渐变色、图片、透明度、内容入侵和状态栏深色字体；兼容竖屏、横屏，当屏幕旋转时会自动适配。 https://github.com/yanzhenjie/Sofia
 - [TranslucentBar](https://github.com/Kelin-Hong/TranslucentBar)  沉浸式效果的实现
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
 
 
 ## 抽屉菜单 
-- [Android](xxxxx)  自定义ViewGroup实现的圆形旋转菜单   
+ViewGroup实现的圆形旋转菜单   
 ## 下拉刷新 
 - [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)  Ultra Pull to Refresh for Android. Support all the views.
 - [Phoenix](https://github.com/Yalantis/Phoenix)  Phoenix Pull-to-Refresh https://yalantis.com/     
@@ -75,15 +75,15 @@ Android分类集合
 - [FragmentTabhostUtils](https://github.com/open-android/FragmentTabhostUtils)  Android底部导航封装
 - [NavigationTabBar](https://github.com/Devlight/NavigationTabBar)  Navigation tab bar with colorful interactions.
 - [JPTabBar](https://github.com/peng8350/JPTabBar)  各种底部导航
-- [Android](xxxxx)  自定义
+
 ## 换肤 
 - [Android-skin-support](https://github.com/ximsfei/Android-skin-support)  一款用心去做的Android 换肤框架
 - [Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)  一个通过动态加载本地皮肤包进行换肤的皮肤框架
 - [Colorful](https://github.com/hehonghui/Colorful)  基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
 ## 轮播图
 - [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager)  单页显示3个Item的ViewPager炫酷切换效果，适用于Banner等
 - [ViewPager3D](https://github.com/inovex/ViewPager3D)  ViewPager 3D切换效果
@@ -99,48 +99,48 @@ Android分类集合
 - [XBanner](https://github.com/xiaohaibin/XBanner)  持图片无限轮播，支持AndroidX、自定义指示点、显示提示文字、切换动画、自定义布局，一屏显示多个等功能
 - [BannerView](https://github.com/pingerx/BannerView)  轮播图控件，支持无限循环轮播，支持三种常用页面特效，支持设置指示器等。满足大部分的项目需求，可以直接使用。
 - [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)  好不错，各种炫酷
-- [Android](xxxxx)  自定义
+
 ## 日志 
 - [LogUtils](https://github.com/pengwei1024/LogUtils   )  各种日志打印
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
+
+
+
+
 
 ## 通知栏 
 - [NiftyNotification](https://github.com/sd6352051/NiftyNotification)  NiftyNotification
 - [YCNotification](https://github.com/yangchong211/YCNotification)  通知栏封装库，链式编程调用，解决了8.0以上通知栏不显示问题，兼容老版本。
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 导航指示器 
 - [MagicIndicator](https://github.com/hackware1993/MagicIndicator)  MagicIndicator
 - [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator)  实现网易顶部tab，新浪微博主页底部tab，引导页，无限轮播banner等效果，高度自定义tab和特效，LazyFragment
 - [CircleIndicator](https://github.com/ongakuer/CircleIndicator)  A lightweight indicator like in nexus 5 launcher
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
+
+
+
 
 ## RecycleView  
 - [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)  闪烁加载视图列表，类似淘宝
@@ -148,7 +148,7 @@ Android分类集合
 - [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)  自定义
 - [Skeleton](https://github.com/ethanhua/Skeleton)  闪烁加载视图列表
 - [Broccoli](https://github.com/samlss/Broccoli)  闪烁加载视图列表 //这个人主页还有其他比较好的项目
-- [Android](xxxxx)  自定义
+
 ## 相册选择器 
 - [Matisse](https://github.com/zhihu/Matisse)  知乎开源相册
 - [Album](https://github.com/yanzhenjie/Album)  严振杰大佬开源相册
@@ -164,11 +164,11 @@ Android分类集合
 ## 二维码条形码 
 - [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 - [StarBarcode](https://github.com/kangdp/StarBarcode)  wanAndroid群星爷二维码
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
+
 ## 弹窗 PopupWindow
 - [NiceDialog](https://github.com/SheHuan/NiceDialog) DialogFragment封装
 - [material-dialogs](https://github.com/afollestad/material-dialogs)  A beautiful, fluid, and extensible dialogs API for Kotlin & Android
@@ -185,8 +185,8 @@ Android分类集合
 - [XPopupWindow](https://github.com/XuDeveloper/XPopupWindow)  PopupWindow using Kotlin
 - [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)  对PopupWindow常用API的简单封装，几行代码就搞定PopupWindow弹窗，使用Builder模式，链式调用，像使用AlertDialog 一样
 - [PureComment](https://github.com/showzeng/PureComment)  模仿国际微博评论框 https://showzeng.itscoder.com/android…
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
 
 
 ## 联系人A-Z字母索引 
@@ -199,17 +199,17 @@ Android分类集合
 - [SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)  仿美团选择城市、微信通讯录、饿了么点餐列表的导航悬停分组索引列表。 http://blog.csdn.net/zxt0601/article/…
 - [CityPickerRecyclerVeiw](https://github.com/BaiShou/CityPickerRecyclerVeiw)  使用RecyclerView 仿美团-城市选择器,定位、热门
 - [CityPicker](https://github.com/zaaach/CityPicker)  城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
 ## 图片 
 - [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)  大图长图加载
 - [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)  图片查看器，类似淘宝详情图片
 - [Tiny](https://github.com/Sunzxyong/Tiny) 一个高保真、高压缩比的图片压缩框架）
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
 
 
 ## MaterialDesign相关
@@ -237,9 +237,9 @@ Android分类集合
 - [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)  各种动画包含loading
 - [Android](https://github.com/as5846197/ViewStudy/blob/master/app/src/main/java/com/example/niugulu/viewstudy/view/LeafLoadingView.java)  风扇叶原博主https://blog.csdn.net/tianjian4592/article/details/44538605
          https://www.jianshu.com/p/69270f8a936b  地址：  https://github.com/Ajian-studio/GALeafLoading
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
 
 
 ## 视音频 
@@ -258,27 +258,27 @@ Android分类集合
 - [small-video-record](https://github.com/mabeijianxi/small-video-record)  利用FFmpeg视频录制微信小视频与其压缩处理
 - [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)  视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、
 - [remusic](https://github.com/aa112901/remusic)  仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
 
 
 ## 即时通讯
 - [android-chat](https://github.com/wildfirechat/android-chat)  全开源即时通讯(野火IM)系统 高仿微信（包含安卓和ios以及后台） http://docs.wildfirechat.cn
 - [HRLChatUi](https://github.com/huangruiLearn/HRLChatUi)  android自定义聊天界面 支持语音 图片 视频 文件布局的显示
 - [aurora-imui](https://github.com/jpush/aurora-imui)  General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
+
 
 ## 支付
 - [RxPay](https://github.com/simplezhli/RxPay)  支付宝、微信支付快速集成
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义
 - [Android](xxxxx)  自定义

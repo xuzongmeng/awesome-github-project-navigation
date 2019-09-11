@@ -16,11 +16,11 @@ Java分类集合
 ## springCloud教程
 - [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)  Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 http://www.ityouknow.com/
 - [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)  《史上最简单的Spring Cloud教程源码》
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
+
+
+
 
 ## 传统springmvc SSM相关
 - [SpringMvcMybatis](https://github.com/pc859107393/SpringMvcMybatis)  SpringMvcMybatis项目框架整合,加入bruid数据库连接池.
@@ -32,7 +32,7 @@ Java分类集合
 - [SpringMVCDemo](https://github.com/gaussic/SpringMVCDemo)  This is a demo of my spring mvc project.
 - [web](https://github.com/chwshuang/web)  集成Spring4.x+SpringMVC+Mybatis的Java后台管理框架
 - [ssm](https://github.com/liyifeng1994/ssm)  手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis http://blog.csdn.net/qq598535550/arti…
-- [Android](xxxxx)  自定义
+
 
 ## 开源项目 
 - [AdminEAP](https://github.com/bill1012/AdminEAP)  AdminEAP-企业快速开发平台：Spring MVC+Hiberante+AdminLTE 
@@ -52,15 +52,15 @@ Java分类集合
 - [FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)  Spring Boot 2.0.4 & Shiro1.4.0 权限管理系统。预览地址：http://111.230.157.133/febs
 - [paascloud-master](https://github.com/paascloud/paascloud-master)  spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。 http://www.paascloud.net
 
-- [Android](xxxxx)  自定义
-- [Android](xxxxx)  自定义
+
+
 
 ## 管理台模板 
 - [hAdmin](https://github.com/huangyaoxin/hAdmin)  基于原生HTML管理台模板
 - [iDataV](https://github.com/yyhsong/iDataV)  大数据可视化
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)  基于原生HTML管理台模板
 - [LitAdmin](https://github.com/jerry9022/LitAdmin)  基于Vue管理台模板
-- [Android](xxxxx)  自定义
+
 ## 其他 
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)  收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 - [TranslatorX](https://github.com/pingfangx/TranslatorX)  JetBrains 系列软件汉化包 关键字: Android Studio 3.4 汉化包 CLion 2019.1 汉化包 DataGrip 2019.1 汉化包 GoLand 2019.1 汉化包 IntelliJ IDEA 2019.1 汉化包 PhpStorm 2019.1 汉化包 PyCharm 2019.1 汉化包 RubyMine 2019.1 汉化包 WebStorm 2019.1 汉化包

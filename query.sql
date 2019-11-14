@@ -26,3 +26,4 @@ delete from order_customer   where order_id in (select  a.id from (select o.orde
 
 
 delete from `order` where user_id= 13304660124237892;
+delete from `account` where user_id= 13304660124237892;

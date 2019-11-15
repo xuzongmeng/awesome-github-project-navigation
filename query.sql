@@ -27,3 +27,11 @@ delete from order_customer   where order_id in (select  a.id from (select o.orde
 
 delete from `order` where user_id= 13304660124237892;
 delete from `account` where user_id= 13304660124237892;
+
+
+select c.* from order o
+  #   left join hotel_room hr on hr.hotel_room_id = o.hotel_room_id
+  #   left join hotel h on h.hotel_id=hr.hotel_id
+  left join comment c on c.order_id=o.order_id
+where o.order_id=14056400857595906
+# where h.name like '柏曼酒店武汉阳逻店' and hr.name like '%大床房%';

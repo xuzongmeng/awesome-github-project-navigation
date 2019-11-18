@@ -32,7 +32,7 @@ delete from `order` where user_id= 13304660124237892;
 delete from `account` where user_id= 13304660124237892;
 
 
-select c.* from order o
+select c.* from `order` o
   #   left join hotel_room hr on hr.hotel_room_id = o.hotel_room_id
   #   left join hotel h on h.hotel_id=hr.hotel_id
   left join comment c on c.order_id=o.order_id

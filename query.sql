@@ -21,7 +21,7 @@ delete from capital_pool_record    where relation_id in (select  a.id from (sele
 
 delete from account_record    where relation_id in (select  a.id from (select o.order_id id from `order` o where user_id = 13304660124237892) a);
 
-delete from commment   where order_id in (select  a.id from (select o.order_id id from `order` o where user_id = 13304660124237892) a);
+delete from comment    where order_id in (select  a.id from (select o.order_id id from `order` o where user_id = 13304660124237892) a);
 
 delete from order_room_price   where order_id  in (select  a.id from (select o.order_id id from `order` o where user_id = 13304660124237892) a);
 
@@ -31,6 +31,7 @@ delete from order_customer   where order_id in (select  a.id from (select o.orde
 delete from `order` where user_id= 13304660124237892;
 delete from `account` where user_id= 13304660124237892;
 
+/*根据订单id评论*/
 select c.* from `order` o
   left join hotel_room hr on hr.hotel_room_id=o.hotel_room_id
   left join comment c on c.hotel_id=hr.hotel_id

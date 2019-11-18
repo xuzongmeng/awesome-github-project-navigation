@@ -1,5 +1,8 @@
-select rpt.* from hotel h left join hotel_room hr on hr.hotel_id = h.hotel_id left join room_price rp on rp.hotel_room_id=hr.hotel_room_id
-                          left join room_price_time rpt on rpt.room_price_id = rp.room_price_id where h.name like '柏曼酒店武汉阳逻店' and hr.name like '%大床房%';
+select rpt.* from hotel h
+  left join hotel_room hr on hr.hotel_id = h.hotel_id
+  left join room_price rp on rp.hotel_room_id=hr.hotel_room_id
+  left join room_price_time rpt on rpt.room_price_id = rp.room_price_id
+  where h.name like '柏曼酒店武汉阳逻店' and hr.name like '%大床房%';
 
 
 
@@ -33,5 +36,12 @@ select c.* from order o
   #   left join hotel_room hr on hr.hotel_room_id = o.hotel_room_id
   #   left join hotel h on h.hotel_id=hr.hotel_id
   left join comment c on c.order_id=o.order_id
-where o.order_id=14056400857595906
+where o.order_id=14056400857595906;
 # where h.name like '柏曼酒店武汉阳逻店' and hr.name like '%大床房%';
+
+
+
+select c.* from `order` o
+  left join hotel_room hr on hr.hotel_room_id=o.hotel_room_id
+  left join comment c on c.hotel_id=hr.hotel_id
+where o.order_id=14056400857595906

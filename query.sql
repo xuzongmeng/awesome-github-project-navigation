@@ -11,7 +11,10 @@ select rpt.* from hotel h
 
 /*根据*/
 
-select h.* from address a left join address b on a.pr_address_id=b.address_id  left join hotel h on a.address_id = h.address_id where b.name like '%南京%' and h.name like '%南京协春%';
+select h.* from address a
+  left join address a2 on a.pr_address_id=a2.address_id
+  left join hotel h on a.address_id = h.address_id
+where a2.name like '%南京%' and h.name like '%南京协春%';
 
 
 

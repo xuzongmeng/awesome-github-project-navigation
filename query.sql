@@ -57,10 +57,37 @@ where o.order_id=14056400857595906;
 
 
 delete from hotel where hotel_id= 14391250579881986;
+delete from hotel where telephone= '18907447909';
+
 
 select * from address  where pr_address_id = (select  a.address_id from  (SELECT * from address where name like '%湖北%') a);
 
 
 
 #查询自己测试的酒店评论
-select * from hotel where hotel_id = ( select c.hotel_id from (select * from comment where order_id !=-1) c)
+select * from hotel where hotel_id = ( select c.hotel_id from (select * from comment where order_id !=-1) c);
+
+
+SELECT * from user order by create_time desc limit 2;
+
+
+#根据 role_id 查询角色所有的权限
+select  a.*, r.name  from role r
+left join role_authority_relation  rar on rar.role_id =r.role_id
+left join authority a on  a.authority_id = rar.authority_id
+where r.role_id =  14409881514672130;
+
+
+select h.*, hg.name from hotel h
+LEFT JOIN hotel_group hg on hg.hotel_group_id =h.hotel_group_id
+order by create_time desc;
+
+
+#根据 order_id 查询下单的顾客姓名
+select * from `order` o
+left join user_name un on un.user_id = o.user_id
+where o.order_id = 13870127394062338;
+
+
+
+

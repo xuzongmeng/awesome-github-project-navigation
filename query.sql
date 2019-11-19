@@ -50,4 +50,5 @@ where o.order_id=14056400857595906;
 # where h.name like '柏曼酒店武汉阳逻店' and hr.name like '%大床房%';
 
 
+delete from hotel where hotel_id= 14325079809720322;
 

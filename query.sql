@@ -9,7 +9,7 @@ select rpt.* from hotel h
 
 
 
-/*根据*/
+/*根据酒店地址和酒店名称查酒店*/
 
 select h.* from address a
   left join address a2 on a.pr_address_id=a2.address_id
@@ -41,6 +41,12 @@ select c.* from `order` o
 where o.order_id=14056400857595906;
 
 
+/*根据订单id查酒店*/
+select h.* from `order` o
+  left join hotel_room hr on hr.hotel_room_id=o.hotel_room_id
+  left join hotel h on h.hotel_id=hr.hotel_id
+where o.order_id=13870127394062338;
+
 
 select c.* from `order` o
   #   left join hotel_room hr on hr.hotel_room_id = o.hotel_room_id
@@ -50,5 +56,11 @@ where o.order_id=14056400857595906;
 # where h.name like '柏曼酒店武汉阳逻店' and hr.name like '%大床房%';
 
 
-delete from hotel where hotel_id= 14325079809720322;
+delete from hotel where hotel_id= 14391250579881986;
 
+select * from address  where pr_address_id = (select  a.address_id from  (SELECT * from address where name like '%湖北%') a);
+
+
+
+#查询自己测试的酒店评论
+select * from hotel where hotel_id = ( select c.hotel_id from (select * from comment where order_id !=-1) c)

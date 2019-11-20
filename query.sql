@@ -95,6 +95,6 @@ where o.order_id = 13870127394062338;
 
 
 select * from room_price where room_price_id=11854068656898054;
-select * from room_price_time where room_price_id=11854068656898054
+select * from room_price_time where room_price_id=11854068656898054;
 
 

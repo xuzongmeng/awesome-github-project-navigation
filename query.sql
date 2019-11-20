@@ -75,7 +75,11 @@ SELECT * from user order by create_time desc limit 2;
 select  a.*, r.name  from role r
 left join role_authority_relation  rar on rar.role_id =r.role_id
 left join authority a on  a.authority_id = rar.authority_id
-where r.role_id =  14409881514672130;
+where r.role_id =  14409748560478210;
+
+#根据 某个菜单名称 查下面所有的权限
+select  a.*  from authority a
+where a.classify like '%订单%';
 
 
 select h.*, hg.name from hotel h
@@ -89,5 +93,8 @@ left join user_name un on un.user_id = o.user_id
 where o.order_id = 13870127394062338;
 
 
+
+select * from room_price where room_price_id=11854068656898054;
+select * from room_price_time where room_price_id=11854068656898054
 
 
